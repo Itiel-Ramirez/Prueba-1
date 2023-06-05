@@ -1,0 +1,538 @@
+.container {
+    width: 620px;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Muli',sans-serif;
+}
+
+.titles {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+
+.titles h4 {
+    text-align: center;
+    font-weight: 100;
+    color: gray;
+    font-size: 20px;
+} 
+
+.black-box {
+    width: 100%;
+    background: black;
+    
+}
+
+.black-box h3 {
+    padding: 10px;
+    text-align: center;
+    color: gray;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.black-box ol {
+    margin: 0px 50px;
+}
+
+.black-box li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    width: 550px;
+    border:1px solid #333232;
+    background-color: #333232;
+    color: white;
+    font-size: 12px;
+}
+
+.box-gray {
+    margin: -32px;
+    height: 100px;
+    text-align: center;
+    background-color: #d4d6db;
+    font-size: xx-large;
+}
+
+.r{
+    font-size: 10px;
+}
+
+.seeBtn {
+    text-align: right;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    font-style: normal;
+    font-family: 'Muli',sans-serif;
+    background-color: #DFDFDF;
+    font-weight: 100;
+}
+
+.amexCard {
+    width: 620px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.mainBan, .mainBan2 {
+    width: 620px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-spacing: 0 !important;
+    border-collapse: collapse !important;
+}
+
+.bgBan, .bgBan2 {
+    background-color: #00175A;
+    
+}
+
+.headerBan {
+    width: 580px;
+    margin-left: 2.5%;
+    text-align: center;
+    color: white;
+    background-color: #006FCF;
+    font-family: 'Muli',sans-serif;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.account {
+    text-align: right;
+    font-size: small;
+    margin-right: 15px;
+    font-weight: 100;
+    font-family: 'Muli',sans-serif;
+}
+
+.imgText {
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 300px;
+}
+
+.imgMuj {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.amexSolicitud {
+    width: 620px;
+    border-spacing: 0 !important;
+    text-align: center !important;
+}
+
+.amex {
+    width: 150px;
+    padding-right: 130px;
+}
+
+.card {
+    width: 95px;
+    padding-right: 10px;
+}
+
+.bgColor {
+    background-color: #006FCF;
+    color: white;
+    padding-left: 40px;
+    padding-right: 8px;
+}
+
+.blueCards {
+    width: 100px;
+    margin-bottom: -4px;
+}
+
+.algAll {
+    text-align: center !important;
+}
+
+.textImp {
+    color: #00176A;
+    padding-left: 15px;
+    margin-bottom: 25px; 
+}
+
+.delg {
+    font-weight: 100;
+}
+
+.beneficios {
+    background-color:#ECECEC;
+    width: 620px;
+    padding-bottom: 15px;
+    color: #00176A;
+    text-align: left;
+    margin-right: 20px;
+}
+
+.iconsBenef {
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.algText {
+    text-align: center !important;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.labelRew {
+    width: 620px;
+}
+
+.life {
+    width: 620px;
+}
+
+.tabApps {
+    width: 620px;
+    margin-top: 25px;
+}
+
+.celAmex {
+    width: 120px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.imgApple {
+    width: 160px;
+    margin-right: 10px;
+}
+
+.imgAndroid {
+    width: 160px;
+}
+
+.btnAdd {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-bottom: 15px;
+    border-radius: 1px;
+    border-style: hidden;
+    background-color: #006FCF;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    font-family: 'Muli',sans-serif;
+}
+
+.cent2 {
+    font-size: 8px;
+    font-weight: 800;
+    font-family: 'Muli',sans-serif;
+}
+
+.textColor {
+    color: white;
+    font-size: 18px;
+    font-weight: 100;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Muli',sans-serif;
+}
+
+.vigenci {
+    margin-bottom: 30px;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Muli',sans-serif;
+}
+
+.textSn {
+    font-weight: bold;
+    font-family: 'Muli',sans-serif;
+}
+
+.banner {
+    padding-top: 15px;
+}
+
+.download {
+    font-size: 14px;
+    margin-top: 7.5px;
+    margin-bottom: 5px;
+    color: #00145C;
+}
+
+.consult {
+    margin-bottom: 7.5px;
+    color: #777576;
+}
+
+.btnAddBg {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 1px;
+    border-style: hidden;
+    background-color: #006FCF;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+}
+
+.space {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.terms, .info {
+    color: #646464;
+    font-family: 'Muli',sans-serif;
+    font-size: 10px;
+    font-weight: 100;
+    background-color: #AFAFAF;
+    padding: 35px;
+}
+
+.info {
+    background-color: #D6D6D6;
+}
+
+.links {
+    color: #646464;
+}
+
+@media (min-width: 310px) {
+    .terms{
+        display: block !important;
+    }
+
+    .info{
+        display: block !important;
+    }
+
+    .amexSolicitud {
+        display: block !important;
+    }
+
+    .amexSolicitudResp {
+        display: none !important;
+    }
+
+    .cardBg {
+        display: block !important;
+    }
+
+    .cardBgResp {
+        display: none !important;
+    }
+
+    .iconsBenef {
+        display: block !important;
+    }
+
+    .iconsBenefResp {
+        display: none !important;
+    }
+
+    
+}
+
+@media (max-width: 619.98px) {
+    .terms{
+        display: none;
+    }
+
+    .info{
+        display: none;
+    }
+
+    .amexSolicitud {
+        display: none;
+    }
+
+    .iconsBenef {
+        display: none;
+    }
+
+    .cardBg {
+        display: none;
+    }
+
+    .seeBtn {
+        text-align: left;
+        padding-left: 7.5px;
+    }
+
+    .amex {
+        width: 200px;
+        padding-right: 30px;
+        margin-left: 30px;
+    }
+    
+    .card {
+        width: 110px;
+        margin-right: 40px;
+    }
+
+    .request1Resp {
+        font-size: 40px;
+        color: white;
+        background-color: #00175A;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        font-family: 'Muli',sans-serif;
+    }
+
+    .textColorResp {
+        color: #00176A;
+        font-size: 35px;
+        font-weight: 100;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-family: 'Muli',sans-serif;
+    }
+    
+    .vigenciResp {
+        margin-bottom: 30px;
+        font-size: 21px;
+        text-align: center;
+        color: #00176A;
+        font-family: 'Muli',sans-serif;
+    }
+
+    .btnAddResp {
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 1px;
+        border-style: hidden;
+        background-color: #00176A;
+        color: white;
+        font-size: 20px;
+        letter-spacing: 1px;
+        text-decoration: none;
+        margin-bottom: 10px;
+        font-family: 'Muli',sans-serif;
+    }
+
+    .card3Resp {
+        width: 330px;
+        margin-left: 1%;
+    }
+    
+    .reqCard1Resp {
+        font-size: 26px;
+        text-align: center;
+        font-family: 'Muli',sans-serif;
+        color: #00176A;
+        background-color: #D6D6D3;
+        margin-top: 25px;
+        margin-left: 27px;
+        padding-top: 40px;
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+    
+    .reqCard2Resp {
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Muli',sans-serif;
+        color: #00176A;
+        background-color: #D6D6D3;
+        margin-left: 27px;
+        padding-left: 18px;
+        padding-right: 18px;
+        padding-bottom: 38px;
+    }
+
+    .iconsBenefResp {
+        width: 620px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+    
+    .imgCoffeeResp, .imgCardResp, .imgPlaneResp {
+        width: 350px;
+    }
+    
+    .textIconsResp {
+        background-color: #D6D6D3;
+        font-family: 'Muli',sans-serif;
+        font-weight: 500;
+        width: 330px;
+        height: 150px;
+        font-size: 22px;
+        margin-left: 140px;
+        margin-bottom: 25px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        padding-left: 4px;
+        padding-right: 4px;
+        text-align: center;
+        color: #333333;
+    }
+    
+    .textSecResp {
+        background-color: #D6D6D3;
+        font-family: 'Muli',sans-serif;
+        font-weight: 500;
+        width: 330px;
+        height: 140px;
+        font-size: 22px;
+        margin-left: 140px;
+        margin-bottom: 25px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        padding-left: 4px;
+        padding-right: 4px;
+        text-align: center;
+        color: #333333;
+    }
+    
+    .textValidResp {
+        font-weight: 300;
+        font-size: 14px;
+        text-align: center;
+        color: #333333;
+    }
+
+    .btnAddBgResp {
+        padding-left: 95px;
+        padding-right: 95px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        border-radius: 1px;
+        border-style: hidden;
+        background-color: #00176A;
+        color: white;
+        font-size: 30px;
+        letter-spacing: 1px;
+        text-decoration: none;
+        margin-bottom: 10px;
+        font-family: 'Muli',sans-serif;
+    }
+    
+    .btnIconsResp {
+        text-align: center;
+        padding-top: 40px;
+    }
+}
