@@ -304,20 +304,25 @@
 }
 
 .terms, .info {
-    color: #646464;
+    color: gray;
     font-family: 'Muli',sans-serif;
     font-size: 10px;
     font-weight: 100;
-    background-color: #AFAFAF;
+    background-color: #F1F1F1;
     padding: 35px;
 }
 
 .info {
-    background-color: #D6D6D6;
+    background-color: #ffffff;
 }
 
 .links {
-    color: #646464;
+    color: gray;
+}
+
+.cat {
+    color: gray;
+    font-weight: 800;
 }
 
 @media (min-width: 310px) {
