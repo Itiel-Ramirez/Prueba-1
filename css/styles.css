@@ -321,6 +321,13 @@
 }
 
 .cat {
+    font-size: 10px;
+    color: gray;
+    font-weight: 800;
+}
+
+.catN {
+    font-size: 18px;
     color: gray;
     font-weight: 800;
 }
